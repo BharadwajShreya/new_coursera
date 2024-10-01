@@ -1,2 +1,2 @@
 # new_coursera
-new chamges in the IBM course
+new changes in the IBM course
